@@ -26,11 +26,12 @@ h6{
 	margin-top: 8px; 
 }
 .signup-btn-wrap{
-	text-align: center;
+	text-align: right;
 	border: none;
 	font-size: 18px;
 	outline: none;
 	cursor: pointer;
+	margin-top: 15px;
 }
 
 
