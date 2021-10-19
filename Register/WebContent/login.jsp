@@ -1,13 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="EUC-KR">
-<title>·Î±×ÀÎ ÆäÀÌÁö</title>
-<link rel="stylesheet" href="loginstyle.css">
+<meta charset="UTF-8">
+<title>ë¡œê·¸ì¸ íŽ˜ì´ì§€</title>
+<link rel="stylesheet" href="./css/loginstyle.css">
 <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+
 </head>
 <body>
-	<div class="bg-img">
+<div class="bg-img">
 		<div class="content">
 			<header>URAVEL</header>
 			<form action="#">
@@ -23,7 +26,7 @@
 					<input type="submit" value="LOGIN">
 				</div>
 				<div class="field space">
-					<input type="submit" value="È¸¿ø°¡ÀÔ">
+					<input type="submit" value="íšŒì›ê°€ìž…">
 				</div>
 				<div class="login">Or login with</div>
 				<div class="kakaotalk">

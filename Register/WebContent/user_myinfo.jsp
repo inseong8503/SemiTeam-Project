@@ -6,13 +6,13 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <link rel="stylesheet" href="./css/style.css">
-<link rel="stylesheet" href="./css/admin.css">
+<link rel="stylesheet" href="./css/mypage.css">
 </head>
 <body>
 	<%@ include file="./header.jsp"%>
 	<main>
 		<!-- 관리자 메뉴 : 사이드 -->
-		<%@ include file="./side.jsp"%>
+		<%@ include file="./user_side.jsp"%>
 		<!-- 관리자 본문 -->
 		<div class="admin-main">
 			<div class="travel-info">

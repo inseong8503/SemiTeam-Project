@@ -1,9 +1,11 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
-<title>회원가입 페이지</title>
-<link rel="stylesheet" href="style.css">
+<title>Insert title here</title>
+<link rel="stylesheet" href="./css/register.css">
 </head>
 <body>
 	<form action="#" method="post">

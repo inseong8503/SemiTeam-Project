@@ -5,14 +5,14 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
-<link rel="stylesheet" href="./css/admin.css">
+<link rel="stylesheet" href="./css/mypage.css">
 <link rel="stylesheet" href="./css/style.css">
 </head>
 <body>
 <%@ include file="./header.jsp"%>
 	<main>
 		<!-- 관리자 메뉴 : 사이드 -->
-		<%@ include file="./side.jsp"%>
+		<%@ include file="./user_side.jsp"%>
 		<!-- 관리자 본문 -->
 		<div class="admin-main">
 			<!-- 게시글 상세 조회 -->

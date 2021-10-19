@@ -13,7 +13,7 @@
 	<%@ include file="./header.jsp"%>
 	<main>
 		<!-- 관리자 메뉴 : 사이드 -->
-		<%@ include file="./side.jsp"%>
+		<%@ include file="./user_side.jsp"%>
 		<!-- 관리자 본문 -->
 		<div class="admin-main">
 			<!-- 게시글 상세 조회 -->
